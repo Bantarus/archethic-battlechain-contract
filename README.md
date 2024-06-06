@@ -28,7 +28,7 @@ Begin to interact with your archmon 🐱 by pressing ▶️ Play.
 - **⚕️ Resurrect**: Bring your archmon 🐱 back to life.
 
 Finally, you can ⚔️ Attack other players in group chat by using the `/attack` command as follows:
-`/attack @username`
+```/attack @username```
 
 (More features coming soon...)
 
