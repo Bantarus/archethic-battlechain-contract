@@ -27,9 +27,6 @@ Begin to interact with your archmon 🐱 by pressing ▶️ Play.
 - **💤 Sleep**: Restore your actions pool.
 - **⚕️ Resurrect**: Bring your archmon 🐱 back to life.
 
-Finally, you can ⚔️ Attack other players in group chat by using the `/attack` command as follows:
-```/attack @username```
-
 (More features coming soon...)
 
 Enough talk, let's ▶️ Play!
