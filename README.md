@@ -23,14 +23,14 @@ Once logged in, you will be transported to the **Play Scene** where the real fun
 - **Join a Party**: Click the “Join Party” button to join a group of players.
   - You will see a list of available players for combat in the Play Scene.
 
-- **Combat**: Send your Cypheran into battle by clicking the “Fight” button below each player’s Cypheran card listed in the player finder scroll.
+- **Combat**: Send your Cypheran into battle by clicking the “Fight” button below each player’s Cypheran card listed in the player finder scroll. Each fight consumes 1 energy.
 
 #### Home Scene: Level Up Your Cypheran
 
 Before diving into combat, it’s wise to level up your Cypherans in the **Home Scene**. Access this scene through the navigation menu bar at the bottom of any scene. Here are your options:
 
-- **Feed**: Provides 20 XP to your Cypheran.
-- **Heal**: Restores your Cypheran’s health equal to their power.
+- **Feed**: Provides 20 XP to your Cypheran and consumes 1 energy.
+- **Heal**: Restores your Cypheran’s health equal to their power and consumes 1 energy.
 - **Sleep**: Refreshes your Cypheran’s energy (available once a day).
 - **Resurrect**: Revives your Cypheran if they are KO’d (available twice a day).
 
